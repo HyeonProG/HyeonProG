@@ -7,7 +7,7 @@
     <a href="https://guswo3443.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/811a9e1e62ad434694b472edccf17139">
+    <a href="">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
 </div><br>
