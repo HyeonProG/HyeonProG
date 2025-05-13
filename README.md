@@ -67,6 +67,7 @@
     
 </div><br>
 
+## ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&reversal=true&section=footer)
 
 <!--
 **HyeonProG/HyeonProG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
