@@ -1,4 +1,4 @@
-## ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HyeonProG)
+## ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=HyeonProG)
 ![HyeonProG's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonProG&contribs&count_private=true&show_icons=true&&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonProG&layout=compact)](https://github.com/HyeonProG/github-readme-stats)
@@ -67,7 +67,7 @@
     
 </div><br>
 
-## ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&reversal=true&section=footer)
+## ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&section=footer)
 
 <!--
 **HyeonProG/HyeonProG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
