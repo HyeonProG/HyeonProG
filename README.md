@@ -1,4 +1,13 @@
+<div align="center">
+
+<h3>❝ Mistakes are always forgiveable, if one has the courage to admit them. ❞</h3>
+<h5>❝ 실수란 언제든지 용서받을 수 있는 것이다. 단, 실수한 사람이 그 실수를 인정할 때만 말이다. ❞</h5>
+<p>— Bruce Lee</p>
+
+</div>
+
 ## ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=HyeonProG)
+
 ![HyeonProG's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonProG&contribs&count_private=true&show_icons=true&&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonProG&layout=compact)](https://github.com/HyeonProG/github-readme-stats)
