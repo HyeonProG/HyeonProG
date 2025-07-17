@@ -29,7 +29,7 @@
 <div style="display:flex; flex-direction:row;">
     Back-End
     <br>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
     <img src="https://img.shields.io/badge/Mybatis-8A8A8A?style=for-the-badge&logo=&logoColor=black">
     <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=&logoColor=black"> 
@@ -37,9 +37,18 @@
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
     <img src="https://img.shields.io/badge/QueryDSL-0097A7?style=for-the-badge">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
-    <br>
     <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring Eureka-6DB33F?style=for-the-badge&logo=Netflix&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+    <br>
+    <img src="https://img.shields.io/badge/Spring WebFlux-6DB33F?style=for-the-badge&logo=React&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Server Sent Event-3B66BC?style=for-the-badge&logo=&logoColor=white"> 
+    <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Stomp-000000?style=for-the-badge&logo=&logoColor=white">
     <br><br>
     Front-End
     <br>
