@@ -1,8 +1,6 @@
 <div align="center">
 
-<h3>❝ Mistakes are always forgiveable, if one has the courage to admit them. ❞</h3>
-<h5>❝ 실수란 언제든지 용서받을 수 있는 것이다. 단, 실수한 사람이 그 실수를 인정할 때만 말이다. ❞</h5>
-<p>— Bruce Lee</p>
+<h3>❝ 안되는 것은 없다. 다만 시간이 조금 필요하거나 조금 더 필요할 뿐 ❞</h3>
 
 </div>
 
