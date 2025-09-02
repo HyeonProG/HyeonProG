@@ -1,14 +1,32 @@
 <div align="center">
 
-<h3>❝ 안되는 것은 없다. 다만 시간이 조금 필요하거나 조금 더 필요할 뿐 ❞</h3>
-
 </div>
 
-## ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=HyeonProG)
+## ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=HyeonProG's+Github)
 
-![HyeonProG's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonProG&contribs&count_private=true&show_icons=true&&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonProG&layout=compact)](https://github.com/HyeonProG/github-readme-stats)
+### 👀 About Me
+- Java, Spring Boot 기반 **백엔드 중십 웹 개발** 경험
+- JSP, Mustache, JavaScript 기반 UI 구성 및 프론트엔드 개발 경험
+- **코딩 컨벤션 & 커밋 메시지 규칙 준수** 및 협업 경험
+- 기술 블로그 운영
+- 개발이 즐거운 사람
+
+---
+
+### 🏆 Awards
+🥈 신세계I&C 스파로스 아카데미 6기 2차 프로젝트 우수상 (2025)<br>
+🥇 신세계I&C 스파로스 아카데미 6기 1차 프로젝트 최우수상 (2025)<br>
+🥇 그린아카데미 파이널 프로젝트 최우수상 (2024)
+
+---
+
+### 📊 Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HyeonProG&contribs&count_private=true&show_icons=true&&theme=tokyonight" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonProG&layout=compact&theme=tokyonight" height="130px"/>
+</div>
 <br>
 
 ## 💻 DEV's log 💻
@@ -84,18 +102,3 @@
 </div><br>
 
 ## ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&section=footer)
-
-<!--
-**HyeonProG/HyeonProG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
